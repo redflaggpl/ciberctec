@@ -1,0 +1,62 @@
+
+a:visited, body a:visited
+{
+    color: #414141;
+    text-decoration: none;
+}
+a:hover, a:active, body a:hover
+{
+    color: #414141;
+    text-decoration: underline;
+}
+
+.link1:link
+{
+    color: #33CCCC;
+    text-decoration: none;
+}
+.link1:visited
+{
+    color: #33CCCC;
+    text-decoration: none;
+}
+.link1:hover, .link1:active
+{
+    color: #FF6600;
+    text-decoration: underline;
+}
+
+.calendarWeek, div.calendarWeek
+{
+	border: 1px solid #FF9900;
+}
+.calendarWeek table
+{
+	margin: 5px; padding: 5px;
+}
+.calendarWeek td, .calendarWeek th
+{
+	margin: 2px;
+	border: 1px solid #339966;
+	text-align: center;
+}
+.colDay1, .colDay2, .colDay3, .colDay4, .colDay5, .colDay6, .colDay7, .colBlank
+{
+	width: 100px;
+	height: 60px;
+}
+.today
+{
+	
+	background-color: #FFCC99 !important;
+	border: 1px solid #FF0000 !important;
+}
+.popup
+{
+	position: absolute;
+	width: 150px;
+	display: none;
+	background-color: #FFFFFF;
+	border: 1px solid black;
+	padding: 5px;
+}

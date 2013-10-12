@@ -1,0 +1,11 @@
+# Ignores
+\.DS_Store
+\.classpath
+\.project
+\.settings
+\.metadata/
+Servers/
+target/
+smarty_tpls/elfic/templates_c/
+smarty_tpls/elfic/cache/
+smarty_tpls/elfic/configs/
